@@ -51,3 +51,12 @@
 | Gema       | 29   | Valencia   |
 | Salva      | 39   | Valencia   |
 
+### Tareas pendientes
+
+- [x] Tarea completada :tada:
+- [ ] Tarea pendiente  
+
+- [x] Base Datos
+- [ ] Diagrama Casos Uso
+
+      
