@@ -37,9 +37,6 @@
 
 ![SuperMario](./img/supermario.png) 
 
-<!-- enlace de una imagen externa -->
-![Sonic](https://static.wikia.nocookie.net/sonic/images/6/6d/Sonic_67.png)
-
 <!-- usar HTML -->
 <img src="https://static.wikia.nocookie.net/sonic/images/6/6d/Sonic_67.png" alt="Imagen" width="100"/>
 
